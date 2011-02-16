@@ -9,7 +9,7 @@ from PySide.QtWebKit import QWebView, QWebPage
 url = "http://dev.sencha.com/deploy/touch/examples/kitchensink/"
 #url = "http://gmail.com/"
 # This doesn't work so well yet:
-#url = "http://lab.femhub.org/"
+#url = "http://dev.qsnake.com/"
 
 class MyWebPage(QWebPage):
 

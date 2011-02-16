@@ -1,4 +1,4 @@
-FEMhub QT
+Qsnake QT
 =========
 
 Install PySide
@@ -13,7 +13,7 @@ For Ubuntu::
 For other distributions, see here:
 http://developer.qt.nokia.com/wiki/PySideBinariesLinux
 
-Install and Run FEMhub QT
+Install and Run Qsnake QT
 -------------------------
 
 In Ubuntu::
@@ -22,7 +22,7 @@ In Ubuntu::
     cd qsnake-qt
     ./qsnake-qt
 
-This launches a Femhub desktop application (unfinished). It can take up to 10s
+This launches a Qsnake desktop application (unfinished). It can take up to 10s
 to load, so just wait a little.
 
 To get some ideas how a finished application could look like, do from the same
