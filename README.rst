@@ -18,9 +18,9 @@ Install and Run FEMhub QT
 
 In Ubuntu::
 
-    git clone git@github.com:femhub/femhub-qt.git
-    cd femhub-qt
-    ./femhub-qt
+    git clone git@github.com:qsnake/qsnake-qt.git
+    cd qsnake-qt
+    ./qsnake-qt
 
 This launches a Femhub desktop application (unfinished). It can take up to 10s
 to load, so just wait a little.
