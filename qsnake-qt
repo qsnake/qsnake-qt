@@ -5,12 +5,12 @@ from PySide.QtCore import QUrl
 from PySide.QtGui import QApplication
 from PySide.QtWebKit import QWebView, QWebPage
 
-url = "http://lab.femhub.org/"
+url = "http://dev.qsnake.com/"
 
 app = QApplication(sys.argv)
 
 web = QWebView()
-web.setWindowTitle("Femhub Desktop Application")
+web.setWindowTitle("Qsnake Desktop Application")
 web.load(QUrl(url))
 web.show()
 
